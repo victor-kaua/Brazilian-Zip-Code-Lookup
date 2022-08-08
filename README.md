@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/89159122/183317018-9ae2b0d5-a561-4ebd-91b2-4e36bbbe2846.png" width="250" align="right"/>
+<img src="https://user-images.githubusercontent.com/89159122/183317018-9ae2b0d5-a561-4ebd-91b2-4e36bbbe2846.png" width="280" align="right"/>
 
 # Brazilian Zip Code Lookup
 A program made in Python, using the PySimpleGUI framework, which has the purpose of searching for state data based on the Brazilian postal code (CEP). 
@@ -23,6 +23,6 @@ pip install PySimpleGUI
 - Run the program "app_ConsultCEP.py" in cmd or an IDE;
 
 - Enter a valid Brazilian zip code. 
-<img  src="Image/CaptureGUI.PNG" width="150" align="left">
+<img  src="Image/CaptureGUI.PNG" width="350" align="left">
 
 
