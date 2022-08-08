@@ -20,7 +20,7 @@ Presenting the:
 ```txt
 pip install PySimpleGUI 
 ```
-- Run the program app_ConsultCEP.py;
+- Run the program "app_ConsultCEP.py" in cmd or an IDE;
 
 - Enter a valid Brazilian zip code. 
 <img  src="Image/CaptureGUI.png" width="150" align="left">
