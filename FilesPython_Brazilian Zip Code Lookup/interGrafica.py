@@ -39,5 +39,5 @@ def homeScreen():
         sg.Column(colun2)],
         [sg.Column(botoes, justification='center')]
     ]
-
-    impimir = sg.Window('ConsultarCEP', element_padding=(0,10), layout = layout, size=(600,500), finalize=True)
+    
+    impimir = sg.Window('ConsultarCEP', element_padding=(0,10), layout = layout, size=(600,500), finalize=True, icon='image/logo.ico')
