@@ -23,6 +23,6 @@ pip install PySimpleGUI
 - Run the program "app_ConsultCEP.py" in cmd or an IDE;
 
 - Enter a valid Brazilian zip code. 
-<img  src="Image/CaptureGUI.PNG" width="350" align="left">
+<img  src="Image/Capturegui.PNG" width="350" align="left">
 
 
