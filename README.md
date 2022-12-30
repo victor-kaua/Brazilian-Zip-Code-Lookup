@@ -23,7 +23,7 @@ Presenting the:
 
 ## Instructions
 
-<img src="https://media.tenor.com/CbhnRg0n7ksAAAAM/kermit-the-frog-looking-for-directions.gif" width="400" align="right"/>
+<img src="https://media.tenor.com/CbhnRg0n7ksAAAAM/kermit-the-frog-looking-for-directions.gif" width="260" align="right"/>
 
 - Open your terminal, install the PySimpleGUI;
 >- Abra o seu terminal, instale o PySimpleGUI;
