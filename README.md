@@ -39,5 +39,5 @@ pip install PySimpleGUI
 <img  src="Image/Capturegui.PNG" width="380">
 
 
-## 💻 Desenvolvedor/Developer:
+## 💻Developer:
 - Victor Kauã Martins <a href="https://github.com/victor-kaua"> <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/victor-kaua" width="50"></a>
