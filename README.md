@@ -13,16 +13,29 @@ Presenting the:
 - STATE
 - IBGE
 - AREA CODE
+>O programa procura os dados de um estado com base no código postal introduzido. A partir daí, o programa apresentará na própria GUI, os dados desse código postal. Apresentando o:
+>- Logradouro
+>- Bairro
+>- Localidade
+>- UF
+>- IBGE
+>- DDD
 
 ## Instructions
 
+<img src="https://media.tenor.com/CbhnRg0n7ksAAAAM/kermit-the-frog-looking-for-directions.gif" width="400" align="right"/>
+
 - Open your terminal, install the PySimpleGUI;
+>- Abra o seu terminal, instale o PySimpleGUI;
 ```txt
 pip install PySimpleGUI 
 ```
 - Run the program "app_ConsultCEP.py" in cmd or an IDE;
+>- Execute o programa "app_ConsultCEP.py" em cmd ou uma IDE;
+- Enter a valid Brazilian zip code.
+>- Introduza um código postal brasileiro válido.
 
-- Enter a valid Brazilian zip code. 
+## Final Result
 <img  src="Image/Capturegui.PNG" width="380">
 
 
